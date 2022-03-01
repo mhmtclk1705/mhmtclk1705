@@ -49,7 +49,7 @@
  
                                                                                                
 ## :star2: My Projects: 
- - <a href="https://mhmtclk1705.github.io/Sass-Website/index.html" target="_blank" >Sass-Website Project</a>                                                                                                                                   
+ - <a href="https://mhmtclk1705.github.io/Sass-Website/index.html" target="_blank" >Sass-Website</a>                                                                                                                                   
                                                                                                                                
 ## :fire: My Stats :
  
