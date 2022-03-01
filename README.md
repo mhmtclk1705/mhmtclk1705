@@ -1,14 +1,7 @@
-<!-- <div id="header" align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" width="600" height="200" />
-</div>
- -->
+
 ## Hi there. I'm Mehmet...:wave:
 - :house: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-<!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 
-<!-- - :seedling: Exploring Technical Content Writing. -->
-
-<!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetcelik-/)
@@ -49,8 +42,24 @@
  
                                                                                                
 ## :star2: My Projects: 
- - <a href="https://mhmtclk1705.github.io/Sass-Website/index.html" target="_blank" >Sass-Website</a>                                                                                                                                   
-                                                                                                                               
+ - <a href="https://mhmtclk1705.github.io/Sass-Website/" target="_blank" >Sass-Website</a>
+ - <a href="https://mhmtclk1705.github.io/Web-Design-Project/" target="_blank" >Web-Design-Project</a> 
+ - <a href="https://mhmtclk1705.github.io/Checkout-Page-JS/" target="_blank" >Checkout-Page-JS</a> 
+ - <a href="https://mhmtclk1705.github.io/Ios-Calculator/" target="_blank" >Ios-Calculator</a>
+ - <a href="https://mhmtclk1705.github.io/To-Do-App/" target="_blank" >To-Do-App</a> 
+ - <a href="https://mhmtclk1705.github.io/Lottery-Game/" target="_blank" >Lottery-Game</a>                                                                             
+ - <a href="https://mhmtclk1705.github.io/Find-The-Number/" target="_blank" >Find-The-Number</a> 
+ - <a href="https://mhmtclk1705.github.io/Score-Keeper-Project/" target="_blank" >Score-Keeper-Project</a>  
+ - <a href="https://mhmtclk1705.github.io/Exact-Age-Project/" target="_blank" >Exact-Age-Project</a>
+ - <a href="https://mhmtclk1705.github.io/Checkout-Form-Page/" target="_blank" >Checkout-Form-Page</a> 
+ - <a href="https://mhmtclk1705.github.io/Parallax-Page/" target="_blank" >Parallax-Page</a> 
+ - <a href="https://mhmtclk1705.github.io/Yahoo-Page/" target="_blank" >Yahoo-Page</a>
+ - <a href="https://mhmtclk1705.github.io/Peerdeck-Page/" target="_blank" >Peerdeck-Page</a> 
+ - <a href="https://mhmtclk1705.github.io/Kahoot-Page/" target="_blank" >Kahoot-Page</a>                                                                             
+ - <a href="https://mhmtclk1705.github.io/Google-Landing-Page/" target="_blank" >Google-Landing-Page</a> 
+ - <a href="https://mhmtclk1705.github.io/Survey-Form/" target="_blank" >Survey-Form</a>                                                                            
+ - <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
+
 ## :fire: My Stats :
  
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmtclk1705&theme=aura&show_icons=true)
