@@ -42,6 +42,8 @@
  
                                                                                                
 ## :star2: My Projects: 
+ - <a href="https://mhmtclk1705.github.io/Digital-Clock/" target="_blank" >Digital-Clock</a>
+ - <a href="https://mhmtclk1705.github.io/Team-Members-Page/" target="_blank" >Team-Members-Page</a> 
  - <a href="https://mhmtclk1705.github.io/Sass-Website/" target="_blank" >Sass-Website</a>
  - <a href="https://mhmtclk1705.github.io/Web-Design-Project/" target="_blank" >Web-Design-Project</a> 
  - <a href="https://mhmtclk1705.github.io/Checkout-Page-JS/" target="_blank" >Checkout-Page-JS</a> 
