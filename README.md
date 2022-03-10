@@ -67,6 +67,9 @@
  - <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
 
 ## :fire: My Stats :
- 
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmtclk1705&theme=aura&show_icons=true)
+                                                                        
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mhmtclk1705&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmtclk1705&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtclk1705&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
