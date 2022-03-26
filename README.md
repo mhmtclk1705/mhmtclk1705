@@ -29,6 +29,9 @@
 ## With React
 
 - <a href="https://mehmetcelik-language-cards-project.netlify.app/" target="_blank" >Language-Cards-Project</a>
+- <a href="https://mehmetcelik-our-reviews-project.netlify.app/" target="_blank" >Our-Reviews-Project</a>
+- <a href="https://mehmetcelik-tours-project.netlify.app/" target="_blank" >Tours-Project</a>
+- <a href="https://mehmetcelik-birthday-reminder.netlify.app/" target="_blank" >Birthday-Reminder</a>
 - <a href="https://mhmtclk1705.github.io/Tour-Place-Project/" target="_blank" >Tour-Place-Project</a>
 
 
