@@ -28,6 +28,7 @@
 ## :star2: My Projects: 
 ## With React
 
+- <a href="https://mehmetcelik-accordion-project.netlify.app/" target="_blank" >Accordion-Project</a>
 - <a href="https://mhmtclk1705.github.io/Task-Tracker-Project/" target="_blank" >Task-Tracker-Project</a>
 - <a href="https://mehmetcelik-todo-app-project.netlify.app/" target="_blank" >Todo-App</a>
 - <a href="https://mehmetcelik-language-cards-project.netlify.app/" target="_blank" >Language-Cards-Project</a>
@@ -38,7 +39,7 @@
 
 
 ## Without React
- - <a href="https://mhmtclk1705.github.io/Weather-App-CW/" target="_blank" >Weather-App-CW</a>
+ 
  - <a href="https://mhmtclk1705.github.io/Clarusway-School-Project/" target="_blank" >Clarusway-School-Project</a>
  - <a href="https://mhmtclk1705.github.io/Rest-Countries/" target="_blank" >Rest-Countries</a>
  - <a href="https://mhmtclk1705.github.io/Weather-App/" target="_blank" >Weather-App</a>
