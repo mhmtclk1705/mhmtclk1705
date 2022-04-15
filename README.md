@@ -28,6 +28,11 @@
 ## :star2: My Projects: 
 ## With React
 
+- <a href="https://mehmetcelik-redux-todo-app.netlify.app/" target="_blank" >Redux-Todo-App-Project</a>
+- <a href="https://mehmetcelik-redux-counter-app.netlify.app/" target="_blank" >Basic-Redux-Counter-App</a>
+- <a href="https://mehmetcelik-movie-app-firebase.herokuapp.com/" target="_blank" >Firebase-Movie-App</a>
+- <a href="https://mehmetcelik-random-user-2.netlify.app/" target="_blank" >Random-User-2</a>
+- <a href="https://mehmetcelik-recipe-app.netlify.app/" target="_blank" >Recipe-App-Project</a>
 - <a href="https://mehmetcelik-menu-project.netlify.app/" target="_blank" >Menu-Project</a>
 - <a href="https://mehmetcelik-accordion-project.netlify.app/" target="_blank" >Accordion-Project</a>
 - <a href="https://mhmtclk1705.github.io/Task-Tracker-Project/" target="_blank" >Task-Tracker-Project</a>
