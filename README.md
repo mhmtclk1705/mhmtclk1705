@@ -28,6 +28,8 @@
 ## :star2: My Projects: 
 ## With React
 
+
+- <a href="https://mehmetcelik-fire-blog-app.netlify.app/" target="_blank" >Fire-Blog-App</a>
 - <a href="https://mehmetcelik-redux-thunk-user-project.netlify.app/" target="_blank" >Redux-Thunk-User</a>
 - <a href="https://mehmetcelik-router-cw-website.netlify.app/" target="_blank" >Clarusway-Website-with-Router</a>
 - <a href="https://mehmetcelik-redux-todo-app.netlify.app/" target="_blank" >Redux-Todo-App-Project</a>
