@@ -8,7 +8,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetcelik-/)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@mehmetcelik1705)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mehmetcelik1705@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtclk1705" alt="mhmtclk1705" /> </p>
+
 
 ## 💻 Tech Stack
 
